@@ -1,7 +1,7 @@
 import React from 'react';
-import team1 from '../assets/team1.jpg';
-import team2 from '../assets/team2.jpg';
-import './Team.css'; // Assuming you create a CSS file for styling Team
+import team1 from 'src/assets/team1.jpg';
+import team2 from 'src/assets/team2.jpg';
+import 'src/css/Team.css'; // Assuming you create a CSS file for styling Team
 
 const Team = () => {
   return (
