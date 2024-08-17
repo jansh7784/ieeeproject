@@ -1,6 +1,6 @@
 import React from 'react';
 import mapImage from '../assets/map.png';
-import './Contact.css'; // Assuming you create a CSS file for styling Contact
+import 'src/css/Contact.css'; // Assuming you create a CSS file for styling Contact
 
 const Contact = () => {
   return (
