@@ -1,5 +1,5 @@
 import React from 'react';
-import mapImage from '../assets/map.png';
+import mapImage from 'src/assets/map.png';
 import 'src/css/Contact.css'; // Assuming you create a CSS file for styling Contact
 
 const Contact = () => {
