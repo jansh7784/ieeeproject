@@ -1,5 +1,5 @@
 import React from 'react';
-import './Events.css'; // Assuming you create a CSS file for styling Events
+import 'src/css/Events.css'; // Assuming you create a CSS file for styling Events
 
 const Events = () => {
   return (
